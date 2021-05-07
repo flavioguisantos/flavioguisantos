@@ -18,7 +18,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 </p>
 
 <p align="center">
-  Hability: <strong>Sql Server, MySql, MongoDB, JavaScript, Visual Basic, CSS, HTML.</strong>
+  Hability: <strong>Sql Server, MySql, MongoDB, NodeJS, JavaScript, Visual Basic, CSS, HTML.</strong>
 </p>
 
 <p align="center">
