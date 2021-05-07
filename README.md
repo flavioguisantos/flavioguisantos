@@ -34,7 +34,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flavioguisantos/"/></a>
   <a href="https://www.facebook.com/flavioguisantos/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/sidneymarcelofranco/"/></a>
-  <a href="https://www.linkedin.com/in/flávio-guilherme-dos-santos-207b2856" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/flavioguisantos" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-guilherme-dos-santos-207b2856/"/></a>
 </p>
 
@@ -65,7 +65,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 ## GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sidneymarcelofranco&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidneymarcelofranco&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=flavioguisantos&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flavioguisantos&hide=css,java,html&theme=tokyonight">
 </p>
 
