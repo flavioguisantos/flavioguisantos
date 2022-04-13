@@ -31,7 +31,8 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
   <a href="https://api.whatsapp.com/send?phone=5511983069791/" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/flávio-guilherme-dos-santos-207b2856" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-guilherme-dos-santos-207b2856"/></a>
+            
 </p>
 
 ## Technologies & Tools
